@@ -4,5 +4,5 @@
 Para rodar precisa instalar :
 
 ````
-NPM install React
+Node app.js
 ````
